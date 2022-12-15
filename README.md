@@ -1,8 +1,10 @@
 # Build-A-Random-Quote-Machine-fcc-challenge-
-web view in jsitor
-https://jsitor.com/hSlK7eA9DC
+
+
+Live view of App  in jsitor:
+https://jsitor.com/preview/hSlK7eA9DC
+
 
 live view on codepen:
-
 https://codepen.io/meeramenon07/full/JjLQGNV
 
